@@ -35,6 +35,7 @@ focused groups: one dedicated to the client side of the application and the othe
 administrator and specialists sections. This structured branching approach improved coordination, 
 reduced merge issues, and allowed different parts of the project to progress efficiently at the same 
 time. 
+
 Sprint Management with Jira 
 
 ● Jira for Sprint Planning and Progress Tracking:  
@@ -44,6 +45,7 @@ each sprint. This allowed the team to monitor bottlenecks in real time, adjust p
 ensure that deliverables remained on track. By keeping detailed notes on task completion and any 
 challenges encountered. 
 Centralized Resources with Notion 
+
 ● Notion for Resource Centralization and Consistency: We relied on Notion to centralize all project 
 resources, environmental variables, and supporting articles. The centralized approach minimized 
 confusion, reduced onboarding time for any new details, and ensured consistency of information across 
