@@ -11,6 +11,7 @@ Agile Project Management and Oversight
 My contributions to the team's agile practices emphasized collaboration, clear communication, and 
 structured progress tracking. I actively supported the team's workflow by participating in key planning 
 activities and utilizing the tools that kept everyone aligned. 
+
 ● Extensive Role in Planning Structure and Architecture: 
 I played an extensive role in planning the structure and architecture of the website we were building by 
 attending multiple meetings with the team. In these sessions, I suggested concrete ideas such as Solar 
@@ -23,6 +24,7 @@ greater freelancer engagement and retention, approaches to effectively connect f
 clients, and the creation of administrator roles that would oversee the platform to maintain quality and 
 compliance. My input during these meetings helped clarify the project's direction and ensured that the 
 architecture would support long-term growth and usability. 
+
 ● GitHub for Version Control and Branching Strategy:  
 We utilized GitHub as our primary version control system to maintain a clean and organized codebase. 
 Whenever I was assigned a task, I would open a new branch to work in isolation, preventing any 
@@ -34,6 +36,7 @@ administrator and specialists sections. This structured branching approach impro
 reduced merge issues, and allowed different parts of the project to progress efficiently at the same 
 time. 
 Sprint Management with Jira 
+
 ● Jira for Sprint Planning and Progress Tracking:  
 We used Jira to manage our sprints effectively, providing a transparent platform for everyone to stay 
 informed. I regularly updated my assigned tasks in Jira, communicating the status and progress during 
@@ -48,6 +51,7 @@ all team members, regardless of which part of the application they were working 
 Commitment to Continuous Improvement 
 A core part of my role was participating in regular meetings that reinforced the team's agile mindset and 
 drove ongoing enhancements. 
+
 ● Regular Post-Sprint Meetings:  
 We attended regular meetings after each sprint to discuss how to best approach the next sprint and 
 how to improve the website further. In these sessions, I shared feedback based on my work in planning 
